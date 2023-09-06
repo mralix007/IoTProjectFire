@@ -1,2 +1,3 @@
-# IoTProjectFire
-An IoT-based fire detection and alert system for farmland is a notable development. This system relies on specialized sensors to identify fires in agricultural areas. 
+# IoT Project FireDetection and Alert System for Farmland
+
+An IoT-based fire detection and alert system for farmland is a notable development. This system relies on specialized sensors to identify fires in agricultural areas. When a fire is detected, the system takes swift action by notifying the fire department for immediate assistance. It also sends alerts to farmers through mobile towers using a GSM module to ensure their safety and awareness. Additionally, it makes an attempt to extinguish the fire, enhancing its potential to mitigate damage. Such a system is a significant step in improving fire prevention and safety measures in agricultural settings, offering protection for crops, property, and potentially lives.
